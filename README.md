@@ -1,2 +1,1 @@
-# CeubRepositorio
-Bootcamp projeto academico
+Organização de projetos acadêmicos, pessoais e colaborativos
